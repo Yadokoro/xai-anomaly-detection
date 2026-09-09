@@ -1,1 +1,1 @@
-# xai-anomaly-derection
+# xai-anomaly-detection
